@@ -22,11 +22,14 @@
    - [Concepts like **conditional rendering**, **partial updates**, and **streaming responses**.](pages/conditionalRendering.md)
    - [How HTMX interacts with other libraries, like Django and Spring Boot.](pages/interactionWithBackend.md)
 
-6. **Performance Optimizations**  
+6. **More Attributes**
+   - [hx-confirm](pages/hx-confirm.md)
+
+7. **Performance Optimizations**  
    - [Strategies to optimize requests, including caching and debouncing.](pages/optimisationStrategies.md)
    - [Handling common pitfalls and troubleshooting tips.](pages/troubleshooting.md)
 
-7. **Real-world Applications**  
+8. **Real-world Applications**  
    - [Examples like infinite scrolling, form handling, and live updates.](pages/examples.md)
    - [Best practices for integrating HTMX into existing projects.](pages/bestPractices.md)
 
